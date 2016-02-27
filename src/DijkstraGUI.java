@@ -8,16 +8,12 @@ import java.util.logging.Logger;
 import javax.swing.*;
 
 /**
-COPYRIGHT (C) 2012 Andrew Tilisky. All Rights Reserved.
+COPYRIGHT (C) 2012 yksiliT werdnA. All Rights Reserved.
  * This object is instantiated by the driver class and is the user's
  * starting point.  Their input will trigger the reading and hashing
  * in the solver object.
-@author Andrew Tilisky
  */
-/**
- *
- * @author Andrew Tilisky
- */
+ 
 public class DijkstraGUI extends JFrame
 {
     private SolverListener actionList;
